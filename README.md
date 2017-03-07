@@ -1,4 +1,5 @@
 # IJ-Machinego
+ｲﾁｺﾞｼﾞｬﾑ ﾀｲｿﾞｳ
 IchigoJam上で動くARM Coretx-M0機械語ルーチン集です
 
 ## 予定！
