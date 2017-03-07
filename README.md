@@ -1,4 +1,4 @@
-# machinego-routines
+# IJ-Machinego
 IchigoJam上で動くARM Coretx-M0機械語ルーチン集です。
 
 ## 予定！
