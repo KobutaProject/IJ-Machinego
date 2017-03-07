@@ -1,9 +1,9 @@
 # IJ-Machinego
-IchigoJam��œ���ARM Coretx-M0�@�B�ꃋ�[�`���W�ł��B
+IchigoJam上で動くARM Coretx-M0機械語ルーチン集です
 
-## �\��I
-* IchigoJam��Ő���ɓ��삷�邱�Ƃ𔻒f��Ƃ��Ă��܂�
-* ARM ABI�ɏ������Ă��ȃR�[�h�����݂��܂�
+## 予定！
+* IchigoJam上で正常に動作することを判断基準としています
+* ARM ABIに準拠していなコードも存在します
 
-## ���̑��I
-* ABI�����R�[�h�Ɣ䏀���R�[�h�𕹋L
+## その他！
+* ABI準拠コードと比準拠コードを併記
