@@ -1,5 +1,5 @@
 # IJ-Machinego
-IchigoJam1.2.1上で動くARM Coretx-M0機械語ルーチン集です　（準備中！）
+IchigoJam1.2.2上で動くARM Coretx-M0機械語ルーチン集です　（準備中！）
 
 ## 予定！
 * IchigoJam上で正常に動作することを判断基準としています
